@@ -1,0 +1,53 @@
+{
+  "log": {
+    "actionLog": {
+      "name": "action log",
+      "searchText": "Search by user, object",
+      "properties": {
+        "user": "User name",
+        "action": "Action",
+        "time": "Time",
+        "objectType": "Object type",
+        "objectName": "Object name",
+        "fromDate": "From date",
+        "toDate": "To date"
+      },
+      "modules": {
+        "admin": {
+          "user": "User",
+          "role": "Role",
+          "menu": "Menu",
+          "organization": "Organization",
+          "application": "Application"
+        }
+      },
+      "actions": {
+        "create": "Create",
+        "update": "Update",
+        "delete": "Delete",
+        "config": "Config",
+        "change_password": "Change password"
+      }
+    },
+    "authLog": {
+      "name": "authentication log",
+      "searchText": "Search by user",
+      "properties": {
+        "user": "User name",
+        "action": "Action",
+        "time": "Time",
+        "result": "Result",
+        "fromDate": "From date",
+        "toDate": "To date"
+      },
+      "actions": {
+        "login": "Login",
+        "logout": "Logout"
+      },
+      "results": {
+        "success": "Success",
+        "fail": "Fail"
+      }
+    }
+  }
+}

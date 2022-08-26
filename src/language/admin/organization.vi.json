@@ -1,0 +1,16 @@
+{
+  "organization": {
+    "name": "tổ chức",
+    "searchText": "Tìm kiếm theo tên tổ chức",
+    "properties": {
+      "organizationName": "Tên tổ chức",
+      "treePath": "Đường dẫn tổ chức",
+      "parentOrganization": "Tổ chức cha",
+      "description": "Mô tả",
+      "logo": "Biểu tượng"
+    },
+    "validate": {
+      "organizationNameEmpty": "Tên tổ chức không được để trống."
+    }
+  }
+}

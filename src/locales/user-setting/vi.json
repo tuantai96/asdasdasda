@@ -1,0 +1,16 @@
+{
+  "userSetting": {
+    "scale": "Kích cỡ",
+    "theme": "Giao diện",
+    "dark": "Tối",
+    "light": "Sáng",
+    "language": "Ngôn ngữ"
+  },
+  "userInfo": {
+    "title": "Thông tin người dùng",
+    "changePassword": {
+      "success": "Mật khẩu đã được thay đổi thành công",
+      "wrongPassword": "Mật khẩu cũ không chính xác"
+    }
+  }
+}

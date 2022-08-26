@@ -1,0 +1,16 @@
+{
+  "userSetting": {
+    "scale": "Component Scale",
+    "theme": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "language": "Language"
+  },
+  "userInfo": {
+    "title": "User information",
+    "changePassword": {
+      "success": "Password was successfully changed",
+      "wrongPassword": "Old password is incorrect"
+    }
+  }
+}

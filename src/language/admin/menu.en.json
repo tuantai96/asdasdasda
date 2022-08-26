@@ -1,0 +1,22 @@
+{
+  "menu": {
+    "name": "menu",
+    "searchText": "Search by menu name, path, component",
+    "prefixUrl": "Prefix",
+    "properties": {
+      "icon": "Icon",
+      "name": "Name",
+      "url": "URL",
+      "parentMenu": "Parent menu",
+      "status": "Status",
+      "component": "Component"
+    },
+    "validate": {
+      "nameEmpty": "Name is not allowed to be empty.",
+      "urlEmpty": "URL is not allowed to be empty.",
+      "parentMenuInvalid": "Parent menu is not allowed to be same as current menu.",
+      "componentEmpty": "Component is not allowed to be empty.",
+      "statusNotSelected": "Status must be selected."
+    }
+  }
+}

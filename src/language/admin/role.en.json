@@ -1,0 +1,22 @@
+{
+  "role": {
+    "name": "role",
+    "searchText": "Search by role code, role name",
+    "properties": {
+      "roleCode": "Role code",
+      "roleName": "Role name",
+      "roleType": "Role type",
+      "active": "Status"
+    },
+    "validate": {
+      "roleCodeEmpty": "Role code is not allowed to be empty.",
+      "invalidCode": "Role code contains only alphabet character, number and '_'",
+      "roleNameEmpty": "Role code is not allowed to be empty.",
+      "codeTypeNotSelected": "Code type must be selected.",
+      "statusNotSelected": "Status must be selected."
+    },
+    "responseError": {
+      "roleCodeExist": "Role code already exists."
+    }
+  }
+}

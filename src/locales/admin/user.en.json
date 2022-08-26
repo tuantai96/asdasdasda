@@ -1,0 +1,58 @@
+{
+  "user": {
+    "name": "user",
+    "searchText": "Search by username, fullname or email",
+    "properties": {
+      "username": "Username",
+      "fullname": "Fullname",
+      "gender": "Gender",
+      "birthday": "Birthday",
+      "email": "Email",
+      "telephone": "Telephone",
+      "avatar": "Avatar",
+      "department": "Department",
+      "status": "Status"
+    },
+    "validate": {
+      "usernameEmpty": "Username is not allowed to be empty.",
+      "usernameContainSpecialCharacters": "Username can only contains lowercase characters, numbers and _",
+      "usernameInvalidLength": "Username can only contains from 3 to 256 characters",
+      "oldPasswordEmpty": "Old Password is not allowed to be empty.",
+      "passwordEmpty": "Password is not allowed to be empty.",
+      "passwordInvalid": "Password contains at least 1 lowercase character, 1 uppercase character, 1 number, 1 special character {'!@#$%^&*'} and min length is 8 characters.",
+      "confirmPasswordEmpty": "Confirm password.",
+      "passwordNotMatch": "Password and confirmation password do not match.",
+      "fullnameEmpty": "Fullname is not allowed to be empty.",
+      "emailEmpty": "Email is not allowed to be empty.",
+      "emailInvalid": "Email is not valid.",
+      "phoneInvalid": "Telephone is not valid.",
+      "genderNotSelected": "Gender must be selected.",
+      "statusNotSelected": "Status must be selected."
+    },
+    "responseError": {
+      "usernameExists": "Username already exists",
+      "userIdInvalid": "User index is not valid",
+      "oldPasswordNotMatch": "Old password is not right"
+    }
+  },
+  "userDetail": {
+    "userInformation": "User information",
+    "changePassword": "Change password",
+    "roleAndOrganization": "Role and Organization"
+  },
+  "avatarUpload": {
+    "removeAvatar": "Remove avatar",
+    "clickToUpdateAvatar": "Click to update avatar"
+  },
+  "roleAndOrganization": {
+    "defaultRole": "Default role",
+    "organizations": "Organizations",
+    "organizationRole": "Organization role",
+    "addRole": "Add role",
+    "setDefault": "Set default",
+    "roleAlreadyDefault": "Role is already default",
+    "confirmRemoveDefaultRole": "Are you sure you want to remove default role: <strong>{itemName}</strong>?",
+    "confirmRemoveOrganization": "Are you sure you want to remove organization: <strong>{itemName}</strong>?",
+    "confirmRemoveOrganizationRole": "Are you sure you want to remove organization role: <strong>{itemName}</strong>?"
+  }
+}

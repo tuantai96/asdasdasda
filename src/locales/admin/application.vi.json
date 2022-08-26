@@ -1,0 +1,9 @@
+{
+  "application": {
+    "title": "Ứng dụng",
+    "logo": "Biểu tượng",
+    "appName": "Tên ứng dụng",
+    "appTitle": "Tiêu đề",
+    "appFooter": "Chân trang"
+  }
+}

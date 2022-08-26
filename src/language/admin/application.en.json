@@ -1,0 +1,9 @@
+{
+  "application": {
+    "title": "Application",
+    "logo": "Logo",
+    "appName": "App name",
+    "appTitle": "App title",
+    "appFooter": "App footer"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "log": {
+    "actionLog": {
+      "name": "lịch sử hành động",
+      "searchText": "Tìm kiếm theo người thực hiện, đối tượng",
+      "properties": {
+        "action": "Hành động",
+        "user": "Người thực hiện",
+        "time": "Thời gian",
+        "objectType": "Loại đối tượng",
+        "objectName": "Tên đối tượng",
+        "fromDate": "Từ ngày",
+        "toDate": "Đến ngày"
+      },
+      "modules": {
+        "admin": {
+          "user": "Người dùng",
+          "role": "Vai trò",
+          "menu": "Chức năng",
+          "organization": "Tổ chức",
+          "application": "Ứng dụng"
+        },
+      },
+      "actions": {
+        "create": "Tạo mới",
+        "update": "Cập nhật",
+        "delete": "Xóa",
+        "config": "Cấu hình",
+        "change_password": "Đổi mật khẩu"
+      }
+    },
+    "authLog": {
+      "name": "lịch sử đăng nhập",
+      "searchText": "Tìm kiếm theo người thực hiện",
+      "properties": {
+        "user": "Người thực hiện",
+        "action": "Hành động",
+        "time": "Thời gian",
+        "result": "Kết quả",
+        "fromDate": "Từ ngày",
+        "toDate": "Đến ngày"
+      },
+      "actions": {
+        "login": "Đăng nhập",
+        "logout": "Đăng xuất"
+      },
+      "results": {
+        "success": "Thành công",
+        "fail": "Thất bại"
+      }
+    }
+  }
+}

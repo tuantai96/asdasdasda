@@ -1,0 +1,14 @@
+{
+  "menus": {
+    "system": {
+      "system": "System Administration",
+      "user": "User Management",
+      "role": "Role Management",
+      "menu": "Menu Management",
+      "organization": "Organization Management",
+      "application": "Application Management",
+      "actionLog": "Action Log Management",
+      "authLog": "Authentication Log Management"
+    }
+  }
+}

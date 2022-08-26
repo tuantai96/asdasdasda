@@ -1,0 +1,22 @@
+{
+  "menu": {
+    "name": "chức năng",
+    "searchText": "Tìm kiếm theo tên chức năng, đường dẫn, thành phần",
+    "prefixUrl": "Tiền tố",
+    "properties": {
+      "icon": "Biểu tượng",
+      "name": "Tên chức năng",
+      "url": "Đường dẫn",
+      "parentMenu": "Chức năng cha",
+      "status": "Trạng thái",
+      "component": "Thành phần"
+    },
+    "validate": {
+      "nameEmpty": "Tên chức năng không được để trống.",
+      "urlEmpty": "Đường dẫn không được để trống.",
+      "parentMenuInvalid": "Chức năng cha không được trùng với chức năng hiện tại.",
+      "componentEmpty": "Thành phần không được để trống.",
+      "statusNotSelected": "Trạng thái phải được chọn."
+    }
+  }
+}

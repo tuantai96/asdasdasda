@@ -1,0 +1,14 @@
+{
+  "menus": {
+    "system": {
+      "system": "Quản trị hệ thống",
+      "user": "Quản trị người dùng",
+      "role": "Quản trị vai trò",
+      "menu": "Quản trị chức năng",
+      "organization": "Quản trị tổ chức",
+      "application": "Quản trị ứng dụng",
+      "actionLog": "Quản trị lịch sử hành động",
+      "authLog": "Quản trị lịch sử đăng nhập"
+    }
+  }
+}

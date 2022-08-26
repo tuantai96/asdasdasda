@@ -1,0 +1,116 @@
+{
+  "root": [
+    {
+      "key": "0",
+      "label": "Chức năng",
+      "data": "Documents Folder",
+      "children": [
+        {
+          "key": "0-0",
+          "label": "Quản lý thông tin cán bộ nhân viên",
+          "data": "Work Folder",
+          "children": [
+            {
+              "key": "0-0-0",
+              "label": "Danh sách cán bộ nhân viên",
+              "data": "Expenses Document"
+            }
+          ]
+        },
+        {
+          "key": "0-1",
+          "label": "Quản lý định mức",
+          "data": "Home Folder",
+          "children": [
+            {
+              "key": "0-1-0",
+              "label": "Quản lý định mức thẩm định viên",
+              "data": "Invoices for this month"
+            },
+            {
+              "key": "0-1-1",
+              "label": "Danh mục đơn vị tính",
+              "data": "Invoices for this month"
+            },
+            {
+              "key": "0-1-2",
+              "label": "Tổng hợp kết quả xử lí",
+              "data": "Invoices for this month"
+            },
+            {
+              "key": "0-1-3",
+              "label": "Thanh toán",
+              "data": "Invoices for this month"
+            },
+            {
+              "key": "0-1-4",
+              "label": "Quản lý ngày công",
+              "data": "Invoices for this month"
+            }
+          ]
+        },
+        {
+          "key": "0-2",
+          "label": "Quản lý chấm công",
+          "data": "Home Folder",
+          "children": [
+          ]
+        },
+        {
+          "key": "0-3",
+          "label": "Quản lý đăng bạ",
+          "data": "Home Folder",
+          "children": [
+            {
+              "key": "0-3-0",
+              "label": "Đăng bạ",
+              "data": "Invoices for this month"
+            },
+            {
+              "key": "0-3-1",
+              "label": "Cấu hình thông tin đăng bạ",
+              "data": "Invoices for this month"
+            }
+          ]
+        },
+        {
+          "key": "0-4",
+          "label": "Quản lý danh mục",
+          "data": "Home Folder",
+          "children": [
+            {
+              "key": "0-4-0",
+              "label": "Trình độ học vấn",
+              "data": "Invoices for this month"
+            },
+            {
+              "key": "0-4-1",
+              "label": "Danh mục đơn giá",
+              "data": "Invoices for this month"
+            },
+            {
+              "key": "0-4-2",
+              "label": "Danh mục ngày nghỉ trong năm",
+              "data": "Invoices for this month"
+            },
+            {
+              "key": "0-4-3",
+              "label": "Danh mục đơn sau khi cấp văn bằng",
+              "data": "Invoices for this month"
+            },
+            {
+              "key": "0-4-4",
+              "label": "Danh sách văn bản ban hành",
+              "data": "Invoices for this month"
+            },
+            {
+              "key": "0-4-5",
+              "label": "Danh mục lý do nghỉ phép",
+              "data": "Invoices for this month"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

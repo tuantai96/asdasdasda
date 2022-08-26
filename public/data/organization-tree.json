@@ -1,0 +1,52 @@
+{
+  "root": [
+    {
+      "key": "0",
+      "label": "Tổ chức",
+      "data": "Documents Folder",
+      "children": [
+        {
+          "key": "0-0",
+          "label": "Trung tâm thẩm định nhãn hiệu quốc tế",
+          "data": "Work Folder",
+          "children": []
+        },
+        {
+          "key": "0-1",
+          "label": "Trung tâm thẩm định kiểu dáng công nghiệp",
+          "data": "Home Folder",
+          "children": []
+        },
+        {
+          "key": "0-2",
+          "label": "Phòng TCCB",
+          "data": "Home Folder",
+          "children": []
+        },
+        {
+          "key": "0-3",
+          "label": "Trung tâm sáng chế",
+          "data": "Home Folder",
+          "children": [
+            {
+              "key": "0-3-0",
+              "label": "Phòng cơ khí",
+              "data": "Invoices for this month"
+            },
+            {
+              "key": "0-3-1",
+              "label": "Phòng công trình",
+              "data": "Invoices for this month"
+            }
+          ]
+        },
+        {
+          "key": "0-4",
+          "label": "trung tâm thẩm định nhãn hiệu quốc nội",
+          "data": "Home Folder",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

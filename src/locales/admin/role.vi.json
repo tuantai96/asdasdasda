@@ -1,0 +1,22 @@
+{
+  "role": {
+    "name": "vai trò",
+    "searchText": "Tìm kiếm theo mã vai trò, tên vai trò",
+    "properties" : {
+      "roleCode": "Mã vai trò",
+      "roleName": "Tên vai trò",
+      "roleType": "Loại vai trò",
+      "active": "Trạng thái"
+    },
+    "validate": {
+      "roleCodeEmpty": "Mã vai trò không được để trống.",
+      "invalidCode": "Mã vai trò chỉ chứa chữ, số và dấu '_'",
+      "roleNameEmpty": "Tên vai trò không được để trống.",
+      "codeTypeNotSelected": "Loại vai trò phải được chọn.",
+      "statusNotSelected": "Trạng thái phải được chọn."
+    },
+    "responseError": {
+      "roleCodeExist": "Mã vai trò đã tồn tại."
+    }
+  }
+}

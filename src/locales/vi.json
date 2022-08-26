@@ -1,0 +1,125 @@
+{
+  "message": "Xin chào {username} !!",
+  "username": "Tài khoản",
+  "oldPassword": "Mật khẩu cũ",
+  "password": "Mật khẩu",
+  "confirmPassword": "Xác nhận mật khẩu",
+  "sign-in": "Đăng nhập",
+  "sign-out": "Đăng xuất",
+  "profile": "Hồ sơ cá nhân",
+  "setting": "Cấu hình",
+  "adminSite": "Trang quản trị",
+  "userSite": "Trang người dùng",
+  "changeRole": "Thay đổi vai trò",
+  "search": "Tìm kiếm",
+  "keyword": "Từ khóa",
+  "select": "Chọn",
+  "advancedSearch": "Tìm kiếm nâng cao",
+  "ordinalNumber": "STT",
+  "actions": "Hành động",
+  "create": "Thêm mới",
+  "info": "Thông tin",
+  "config": "Cấu hình",
+  "edit": "Chỉnh sửa",
+  "update": "Thay đổi",
+  "delete": "Xóa",
+  "resetPassword": "Đặt lại mật khẩu",
+  "changePassword": "Đổi mật khẩu",
+  "import": "Nhập dữ liệu",
+  "export": "Xuất dữ liệu",
+  "save": "Lưu",
+  "back": "Quay lại",
+  "cancel": "Hủy bỏ",
+  "close": "Đóng",
+  "yes": "Có",
+  "no": "Không",
+  "resultPagination": "Hiển thị {first} đến {last} trên {totalRecords} kết quả",
+  "emptyRecords": "Không có {itemName} nào.",
+
+  "confirm": "Xác nhận",
+  "confirmResetPassword": "Bạn có chắc chắn muốn đặt lại mật khẩu của tài khoản <strong>{itemName}</strong>?",
+  "confirmChangePassword": "Bạn có chắc chắn muốn đổi mật khẩu của tài khoản <strong>{itemName}</strong>?",
+  "confirmDelete": "Bạn có chắc chắn muốn xóa {itemType}: <strong>{itemName}</strong>?",
+  "confirmDeleteWithoutName": "Bạn có chắc chắn muốn xóa {itemType} này?",
+  "confirmDeleteMultiple": "Bạn có chắc chắn muốn xóa các bản ghi đã chọn?",
+
+  "create-item": "Thêm mới {item}",
+  "edit-item": "Chỉnh sửa {item}",
+  "item-detail": "Thông tin chi tiết {item}",
+
+  "selectGender": "Chọn giới tính",
+  "selectUser": "Chọn người dùng",
+  "selectRole": "Chọn vai trò",
+  "selectRoleType": "Chọn loại vai trò",
+  "selectStatus": "Chọn trạng thái",
+  "selectParentMenu": "Chọn chức năng cha",
+  "selectMenu": "Chọn chức năng",
+  "selectComponent": "Chọn thành phần",
+  "selectParentOrganization": "Chọn tổ chức cha",
+  "selectAction": "Chọn hành động",
+  "selectEmpty": "Không có lựa chọn nào",
+
+  "login": {
+    "welcome-message": "Đăng nhập để tiếp tục",
+    "forgot-password": "Quên mật khẩu?",
+    "username-required": "Tài khoản không được để trống",
+    "password-required": "Mật khẩu không được để trống",
+    "wrong-password": "Mật khẩu không chính xác",
+    "user-not-exits": "Tài khoản không tồn tại",
+    "user-locked": "Tài khoản đang bị khóa",
+    "user-not-admin": "Tài khoản không có vai trò ADMIN"
+  },
+  "result": {
+    "title": {
+      "success": "Thành công",
+      "error": "Thất bại",
+      "info": "Thông tin",
+      "warn": "Cảnh báo"
+    },
+    "message": {
+      "success": "Thao tác thành công.",
+      "somethingWrong": "Có lỗi xảy ra!",
+      "created": "{itemType} {itemName} đã được tạo",
+      "updated": "{itemType} {itemName} đã được cập nhật",
+      "deleted": "{itemType} {itemName} đã bị xóa",
+      "configured": "{itemType} {itemName} cấu hình thành công",
+      "deletedMultiple": "Các {itemType} đã bị xóa",
+      "resetPassword": "Mật khẩu của tài khoản {itemName} đã được đặt lại",
+      "changedPassword": "Mật khẩu của tài khoản {itemName} đã được thay đổi"
+    }
+  },
+  
+  "components": {
+    "SystemManagement": "Quản trị hệ thống",
+    "UserManagement": "Quản trị người dùng",
+    "RoleManagement": "Quản trị vai trò",
+    "MenuManagement": "Quản lý danh sách chức năng",
+    "OrganizationManagement": "Quản lý tổ chức",
+    "ActionLogManagement": "Quản lý lịch sử hành động",
+    "AuthLogManagement": "Quản lý lịch sử đăng nhập"
+  },
+
+  "status": {
+    "active": "Hoạt động",
+    "inactive": "Không hoạt động"
+  },
+  "active": {
+    "true": "Hoạt động",
+    "false": "Không hoạt động"
+  },
+  "roleType": {
+    "default": "Mặc định",
+    "organization": "Tổ chức"
+  },
+  "gender": {
+    "male": "Nam",
+    "female": "Nữ",
+    "other": "Khác"
+  },
+  "logout": {
+    "loggedOut": "Bạn đã đăng xuất!",
+    "redirectingLogin": "Đang chuyển đến trang Đăng nhập sau ",
+    "redirectingLoginCountdown": "{count} giây",
+    "loginAgain": "Đăng nhập lại"
+  }
+}

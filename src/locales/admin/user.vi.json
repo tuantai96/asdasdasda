@@ -1,0 +1,58 @@
+{
+  "user": {
+    "name": "người dùng",
+    "searchText": "Tìm kiếm theo tên đăng nhập, họ tên hoặc hộp thư",
+    "properties" : {
+      "username": "Tên đăng nhập",
+      "fullname": "Họ tên",
+      "gender": "Giới tính",
+      "birthday": "Ngày sinh",
+      "email": "Hộp thư",
+      "telephone": "Điện thoại",
+      "avatar": "Ảnh đại diện",
+      "department": "Phòng ban",
+      "status": "Trạng thái"
+    },
+    "validate": {
+      "usernameEmpty": "Tên đăng nhập không được để trống.",
+      "usernameContainSpecialCharacters": "Tên đăng nhập chỉ được chứa chữ thường, số và ký tự _",
+      "usernameInvalidLength": "Tên đăng nhập chỉ được chứa từ 3 - 256 ký tự",
+      "oldPasswordEmpty": "Mật khẩu cũ không được để trống.",
+      "passwordEmpty": "Mật khẩu không được để trống.",
+      "passwordInvalid": "Mật khẩu phải bao gồm ít nhất 1 chữ hoa, 1 chữ thường, 1 số, 1 ký tự đặc biệt {'!@#$%^&*'} và có ít nhất 8 ký tự.",
+      "confirmPasswordEmpty": "Xác nhận mật khẩu.",
+      "passwordNotMatch": "Mật khẩu và mật khẩu xác nhận không trùng khớp.",
+      "fullnameEmpty": "Họ tên không được để trống.",
+      "emailEmpty": "Hộp thư không được để trống.",
+      "emailInvalid": "Hộp thư không hợp lệ.",
+      "phoneInvalid": "Số điện thoại không hợp lệ.",
+      "genderNotSelected": "Giới tính phải đươc chọn.",
+      "statusNotSelected": "Trạng thái phải được chọn."
+    },
+    "responseError": {
+      "usernameExists": "Tên đăng nhập đã tồn tại",
+      "userIdInvalid": "Chỉ mục người dùng không hợp lệ",
+      "oldPasswordNotMatch": "Mật khẩu cũ không đúng"
+    }
+  },
+  "userDetail": {
+    "userInformation": "Thông tin người dùng",
+    "changePassword": "Thay đổi mật khẩu",
+    "roleAndOrganization": "Vai trò và Tổ chức"
+  },
+  "avatarUpload": {
+    "removeAvatar": "Gỡ ảnh đại diện",
+    "clickToUpdateAvatar": "Chọn để cập nhật ảnh đại diện"
+  },
+  "roleAndOrganization": {
+    "defaultRole": "Vai trò mặc định",
+    "organizations": "Tổ chức",
+    "organizationRole": "Vai trò trong tổ chức",
+    "addRole": "Thêm vai trò",
+    "setDefault": "Đặt mặc định",
+    "roleAlreadyDefault": "Vai trò đã là mặc định",
+    "confirmRemoveDefaultRole": "Bạn có chắc chắn muốn xóa vai trò mặc định: <strong>{itemName}</strong>?",
+    "confirmRemoveOrganization": "Bạn có chắc chắn muốn xóa tổ chức: <strong>{itemName}</strong>?",
+    "confirmRemoveOrganizationRole": "Bạn có chắc chắn muốn xóa vai trò tổ chức: <strong>{itemName}</strong>?"
+  }
+}

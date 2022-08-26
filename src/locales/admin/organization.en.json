@@ -1,0 +1,17 @@
+{
+  "organization": {
+    "name": "organization",
+    "searchText": "Search by organization name",
+    "properties": {
+      "organizationName": "Organization name",
+      "treePath": "Tree path",
+      "parentOrganization": "Parent organization",
+      "description": "Description",
+      "logo": "Logo"
+    },
+    "validate": {
+      "organizationNameEmpty": "Organization name is not allowed to be empty.",
+      "parentOrganizationInvalid": "Parent organization is not allowed to be same as current organization."
+    }
+  }
+}
